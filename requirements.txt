@@ -1,0 +1,17 @@
+nvitop
+transformers==4.55.4
+accelerate==1.10.0
+peft==0.17.1
+bitsandbytes==0.42.0
+scikit-learn==1.6.1
+datasets==4.0.0
+evaluate==0.4.2
+seqeval==1.2.2
+pandas==2.2.2
+numpy==2.0.0
+torch==2.2.0
+huggingface_hub==0.34.4
+scipy==1.16.1
+ipywidgets
+evaluate
+
